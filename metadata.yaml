@@ -1,0 +1,27 @@
+_repo: Abraham-Lincoln-Volume-I_12800
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morse, John Torrey
+    alias: Morse, John T. (John Torrey)
+    birthdate: 1840
+    deathdate: 1937
+    gutenberg_agent_id: '4592'
+    url: http://www.gutenberg.org/2009/agents/4592
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12800'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Presidents -- United States -- Biography'
+- !lcsh 'Lincoln, Abraham, 1809-1865'
+- !lcc 'E456'
+- GITenberg
+title: Abraham Lincoln, Volume I
+url: http://www.gutenberg.org/ebooks/12800
